@@ -1,0 +1,6 @@
+com/assignment/ClientPart2/util/WriteCSV.class
+com/assignment/ClientPart2/model/LiftRide.class
+com/assignment/ClientPart2/Client2.class
+com/assignment/ClientPart2/controller/EventThread.class
+com/assignment/ClientPart2/model/LiftRideEvent.class
+com/assignment/ClientPart2/controller/ClientThread.class
