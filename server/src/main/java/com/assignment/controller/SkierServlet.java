@@ -37,7 +37,7 @@ public class SkierServlet extends HttpServlet{
 	        String dayID = pathParts[pathParts.length - 3]; 
 	        String skierIDString = pathParts[pathParts.length - 1];
 	        
-	        // validation
+	     
 	        int resortID, dayIDInt, skierID;
 	        try {
 	        	resortID = Integer.parseInt(resortIDString);
